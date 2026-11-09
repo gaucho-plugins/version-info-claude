@@ -1,0 +1,19 @@
+{
+  "name": "version-info",
+  "displayName": "Version Info",
+  "version": "1.0.0",
+  "description": "Find which servers run a particular PHP, Node.js, or Python version. Look up installed packages, plugins, and themes, see what changed, and check when each server last reported.",
+  "author": {
+    "name": "Gaucho Plugins",
+    "url": "https://gauchoplugins.com/"
+  },
+  "homepage": "https://versioninfoplugin.com/",
+  "repository": "https://github.com/gaucho-plugins/version-info-claude",
+  "license": "MIT",
+  "keywords": ["server", "inventory", "linux", "wordpress", "software-versions"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://app.versioninfoplugin.com/claude",
+  "supportUrl": "https://gauchoplugins.com/support/",
+  "privacyPolicyUrl": "https://app.versioninfoplugin.com/privacy",
+  "termsOfServiceUrl": "https://app.versioninfoplugin.com/terms"
+}

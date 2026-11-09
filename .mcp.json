@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "version-info": {
+      "type": "http",
+      "url": "https://mcp.versioninfoplugin.com/claude/mcp",
+      "oauth": {
+        "clientId": "versioninfo-claude-code",
+        "scopes": "openid email offline_access inventory:read connections:write"
+      }
+    }
+  }
+}
